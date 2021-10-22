@@ -15,4 +15,5 @@ NodeJS
 
 ## Information
 > [![dc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/885830821704003614/)
-IF HAVE ERROR, DM ME ON DISCORD Lamp#1442
+<br>
+## IF HAVE ERROR, DM ME ON DISCORD Lamp#1442
